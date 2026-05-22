@@ -73,7 +73,7 @@ resume-analyser/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/SMNpuneeth/resume-analyser.git
+git clone https://github.com/SMNpuneeth/AI-Resume-Analyser.git
 cd resume-analyser
 ```
 
