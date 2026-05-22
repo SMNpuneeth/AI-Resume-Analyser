@@ -74,7 +74,7 @@ resume-analyser/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/SMNpuneeth/AI-Resume-Analyser.git
-cd resume-analyser
+cd AI-Resume-Analyser
 ```
 
 ### 2️⃣ Install dependencies
